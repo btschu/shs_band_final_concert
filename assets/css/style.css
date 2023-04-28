@@ -572,15 +572,15 @@ h6 {
   border-radius: 0;
 }
 
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
   }
-}
+} */
 
 @media (max-width: 992px) {
   #hero .play-btn {
-    background-attachment: scroll;
+    /* background-attachment: scroll; */
     margin-top: 30px;
   }
 }
